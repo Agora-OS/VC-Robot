@@ -42,7 +42,7 @@ class Song:
         elif isinstance(link, dict):
             self.title: str = "Live Stream"
             self.duration: str = None
-            self.thumb: str = "https://telegra.ph/file/820cac7cb7b1a025542e2.jpg"
+            self.thumb: str = "https://te.legra.ph/file/ce190a18e39a38026bd90.jpg"
             self.remote_url: str = link["url"]
             self.yt_url: str = link["url"]
             self.headers: dict = None
