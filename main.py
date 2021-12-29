@@ -50,9 +50,10 @@ from pytgcalls.exceptions import NoActiveGroupCall, GroupCallNotFound
 from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
- **Visual Player Bot**
+ **Agora VC Robot**
 - Repo: [GitHub](https://github.com/Agora-OS/VC-Robot)
-- Owner: @Prof_Agora
+- Support : [Join](https://t.me/mm_userbot
+- Owner: [Agora](https://t.me/prof_Agora)
 """
 
 
