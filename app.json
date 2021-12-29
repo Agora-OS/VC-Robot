@@ -1,8 +1,8 @@
 {
-    "name": "Legend Music Player",
+    "name": "𝐀𝐆𝐎𝐑𝐀 𝐕𝐂 𝐑𝐎𝐁𝐎𝐓",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/LEGEND-OS/MUSIC-VC",
-    "logo": "https://github.com/LEGEND-OS/MUSIC-VC/raw/main/theme/logo.png",
+    "repository": "https://github.com/Agora-OS/VC-Robot",
+    "logo": "https://te.legra.ph/file/636be2f6321a519bf56de.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -30,11 +30,12 @@
       },
       "SUDOERS": {
         "description": "ID of sudo users who have special access (separate multiple ids with space)",
+         " value": "2105506225"
         "required": false
       },
       "PREFIX": {
         "description": "Bot commad prefix or handler (separate multiple prefix with space). By DefaultU Can Set <!>",
-        "value": "",
+        "value": "!",
         "required": true 
       },
       "LANGUAGE": {
