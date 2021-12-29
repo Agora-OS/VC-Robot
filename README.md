@@ -10,6 +10,7 @@
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agora-OS/VC-Robot)
 
+# [![★彡[𝐀𝐆𝐎𝐑𝐀 𝐕𝐂 𝐑𝐎𝐁𝐎𝐓]彡★](https://te.legra.ph/file/1ac5a708ad44281c70ce2.jpg)](https://github.com/Agora-OS/VC-Robot)
 
 ## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
 ## ☁️ <a name="self_host"></a>Self Host
