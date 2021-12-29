@@ -30,7 +30,6 @@
       },
       "SUDOERS": {
         "description": "ID of sudo users who have special access (separate multiple ids with space)",
-         " value": "2105506225"
         "required": false
       },
       "PREFIX": {
