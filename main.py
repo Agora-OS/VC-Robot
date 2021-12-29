@@ -50,9 +50,9 @@ from pytgcalls.exceptions import NoActiveGroupCall, GroupCallNotFound
 from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
- **Music Player**
-- Repo: [GitHub](https://github.com/LEGEND-OS/MUSIC-VC)
-- Owner: @The_LegendBoy
+ **Visual Player Bot**
+- Repo: [GitHub](https://github.com/Agora-OS/VC-Robot)
+- Owner: @Prof_Agora
 """
 
 
